@@ -1,0 +1,23 @@
+{
+  "domain": "DefiShield AI",
+  "subtitle": "Smart Contract Liquidation, Oracle Integrity & TVL Safety",
+  "glossary": [
+    {
+      "term": "Flash Loan Attack",
+      "definition": "An exploit using an uncollateralized loan repaid within one transaction to manipulate prices or governance."
+    },
+    {
+      "term": "Oracle Manipulation",
+      "definition": "Artificially skewing a price feed (often via low-liquidity pools) to trigger favorable liquidations or borrows."
+    },
+    {
+      "term": "TVL",
+      "definition": "Total Value Locked; the aggregate value of assets deposited in a DeFi protocol."
+    }
+  ],
+  "starter_prompts": [
+    "Check flash loan vulnerability",
+    "Verify Pyth/Chainlink oracle TWAP",
+    "Model dynamic collateral ratio"
+  ]
+}
